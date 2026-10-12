@@ -17,24 +17,31 @@ engineering projects and exploring new technologies.
 
 ## 🚀 Featured Projects
 
-### 1. Plant Disease Classification
-Comparative analysis of MobileNetV2 and EfficientNet-B0
-using the PlantVillage dataset containing 38 classes.
 
-- Image classification using transfer learning
-- Evaluation using Accuracy, Precision, Recall and F1-score
-- Normalized confusion matrix analysis
+## 🚀 Featured Projects
 
-### 2. Smart Tomato Disease Detection
-YOLOv8-based tomato disease detection with a webcam dashboard.
+### 1. Real-Time Tomato Leaf Disease Detection and Smart Monitoring System
+**Internship Project | YOLOv8**
 
-- Real-time disease detection
-- Bounding-box visualization and target tracking
-- Disease-specific recommendations
+- Trained a YOLOv8 object-detection model for 9 tomato leaf classes.
+- Integrated real-time webcam detection using Python and OpenCV.
+- Developed a monitoring dashboard with confidence scores,
+  severity estimates, target coordinates and FPS.
+- Implemented CSV detection logging and annotated-image saving.
 
-### 3. Face Mask Detection and Emotion Recognition
-A computer vision system integrating face detection,
-mask classification and facial emotion recognition.
+**Technologies:** Python, YOLOv8, OpenCV, NumPy, Roboflow
+
+### 2. Deep Learning-Based Emotion Recognition
+**Major Project | Computer Vision**
+
+- Explored EfficientNetB0 and MobileNetV2 for emotion
+  classification using infant facial-expression datasets.
+- Evaluated models using accuracy and confusion matrices.
+- Investigated the extension of facial emotion recognition
+  with infant-cry audio analysis and multimodal fusion.
+
+**Technologies:** Python, TensorFlow/Keras, EfficientNetB0,
+MobileNetV2, Deep Learning
 
 ## 📫 Connect With Me
 
